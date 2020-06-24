@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Store</title>
+<title>Book</title>
 
 </head>
 
@@ -17,10 +17,7 @@
 		<div class="row">
 			<div class="col-lg-12 text-center">
 				<div class="breadcrumb__text">
-					<h2>Organi Shop</h2>
-					<div class="breadcrumb__option">
-						<span>Shop</span>
-					</div>
+					<h2>Book Library</h2>
 				</div>
 			</div>
 		</div>

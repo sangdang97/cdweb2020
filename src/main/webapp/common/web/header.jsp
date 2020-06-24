@@ -29,7 +29,7 @@
 							<div>English</div>
 							<span class="arrow_carrot-down"></span>
 							<ul>
-								<li><a href="#">Spanis</a></li>
+								<li><a href="#">Vietnamese</a></li>
 								<li><a href="#">English</a></li>
 							</ul>
 						</div>
@@ -53,8 +53,8 @@
 				<nav class="header__menu">
 					<ul>
 						<li><a href="<c:url value="/home" />">Home</a></li>
-						<li><a href="<c:url value="/store" />">Store</a></li>
-						<li><a href="<c:url value="/cart" />">My cart</a></li>
+						<li><a href="<c:url value="/booklibrary" />">Book</a></li>
+						<li><a href="<c:url value="/videolibrary" />">Video</a></li>
 						<li><a href="<c:url value="/blog" />">Blog</a></li>
 						<li><a href="<c:url value="/contact" />">Contact</a></li>
 					</ul>

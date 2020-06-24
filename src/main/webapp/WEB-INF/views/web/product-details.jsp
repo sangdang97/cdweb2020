@@ -45,9 +45,9 @@
 							src="template/web/img/product/details/thumb-1.jpg" alt="">
 						<img
 							data-imgbigurl="template/web/img/product/details/product-details-3.jpg"
-							src="img/product/details/thumb-2.jpg" alt=""> <img
+							src="template/web/img/product/details/thumb-2.jpg" alt=""> <img
 							data-imgbigurl="template/web/img/product/details/product-details-5.jpg"
-							src="img/product/details/thumb-3.jpg" alt=""> <img
+							src="template/web/img/product/details/thumb-3.jpg" alt=""> <img
 							data-imgbigurl="template/web/img/product/details/product-details-4.jpg"
 							src="template/web/img/product/details/thumb-4.jpg" alt="">
 					</div>

@@ -15,15 +15,15 @@ public class HomeController {
 		return mav;
 	}
 	
-	@RequestMapping(value = "/store", method = RequestMethod.GET)
+	@RequestMapping(value = "/booklibrary", method = RequestMethod.GET)
 	public ModelAndView storePage() {
-		ModelAndView mav = new ModelAndView("web/store");
+		ModelAndView mav = new ModelAndView("web/booklibrary");
 		return mav;
 	}
 	
-	@RequestMapping(value = "/cart", method = RequestMethod.GET)
+	@RequestMapping(value = "/videolibrary", method = RequestMethod.GET)
 	public ModelAndView cartPage() {
-		ModelAndView mav = new ModelAndView("web/shoping-cart");
+		ModelAndView mav = new ModelAndView("web/videolibrary");
 		return mav;
 	}
 	

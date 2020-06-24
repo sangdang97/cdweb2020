@@ -3,8 +3,8 @@
 
 	<decorator name="home" page="web.jsp">
 		<pattern>/home</pattern>
-		<pattern>/store</pattern>
-		<pattern>/cart</pattern>
+		<pattern>/booklibrary</pattern>
+		<pattern>/videolibrary</pattern>
 		<pattern>/blog</pattern>
 		<pattern>/contact</pattern>
 		<pattern>/product</pattern>
